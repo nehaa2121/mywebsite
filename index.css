@@ -88,5 +88,13 @@ main img {
     display: block;
     margin: 10px auto;
     width: fit-content;
-  }
+    padding: 15px;
+    font-size: 18px;
+   
 }
+body{
+  background-color: #4c2358;
+}
+
+  }
+
