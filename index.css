@@ -80,16 +80,21 @@ main img {
     padding: 0 10px;
   }
 
-  nav {
+  .menu {
     text-align: center;
+    display: inline;
   }
 
   .hoverc {
     display: block;
     margin: 10px auto;
     width: fit-content;
-    padding: 15px;
-    font-size: 18px;
+    padding: 12px 20px;
+    font-size: 20px;
+    text-align: center;
+
+
+
    
 }
 body{
