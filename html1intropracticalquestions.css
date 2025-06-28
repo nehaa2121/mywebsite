@@ -54,8 +54,12 @@
             }
             @media screen and (max-width:600px){
                 .question{
-                    font-size: 15px;
+                    font-size: 10px;
                     margin: 5px;
+                    padding: 10px;
+                }
+                .input{
+                    font-size: 15px;
                     padding: 10px;
                 }
             }
