@@ -38,7 +38,7 @@
                 font-size: 30px;
             }
             button{
-                  padding: 10px 20px;
+                padding: 10px 20px;
                 font-size: 16px;
                 margin: 20px auto;
                 display: block;
@@ -47,7 +47,7 @@
                 color:white;
                 border: none;
                 border-radius: 5px;
-                margin-left: 50px;
+               
             }
           
             .imp{
@@ -79,6 +79,9 @@
              span{
                 background-color: #270233;
             }
+            
+
+            
         
             @media screen and ( max-width:500px) {
                 h1{
