@@ -10,10 +10,13 @@
                 text-align: center;
                  font-size: 50px;
             }
-            div{
+            .subdiv{
                 background-color:#4c2358;
                 border-radius: 10px;
                 padding:5px;
+                margin:10px;
+                 border-radius: 10px;
+                padding: 5px;
                 margin:10px;
             }
             h3{
@@ -22,10 +25,7 @@
             h2{
                 font-size: 40px;
             }
-            div{
-                border-radius: 10px;
-                padding: 5px;
-                margin:10px;
+            
             }
             .code{
                 border:whitesmoke 2px solid; 
@@ -41,7 +41,7 @@
                   padding: 10px 20px;
                 font-size: 16px;
                 margin: 20px auto;
-                display: black;
+                display: block;
                 cursor: pointer;
                 background-color:#270233;
                 color:white;
@@ -78,7 +78,8 @@
              span{
                 background-color: #270233;
             }
-            @media screen and( max-width:500px) {
+        
+            @media screen and ( max-width:500px) {
                 h1{
                     font-size: 9px;
                 }
@@ -98,6 +99,7 @@
                 }
                 pre{
                     font-size: 5px;
+
                 }
                 .main{
                     margin: 5px;
