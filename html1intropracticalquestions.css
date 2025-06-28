@@ -52,3 +52,8 @@
                 color: rgb(239, 225, 242);
                 border-radius:40px;
             }
+            @media screen and (max-width:600px){
+                .question{
+                    font-size: 15px;
+                }
+            }
