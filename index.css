@@ -7,13 +7,20 @@ a{
     color:rgb(239, 225, 242); 
      text-decoration: none;
 }
+.hoverc1{
+  background-color:#25042f;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 5px;
+}
 .hoverc{
     display:inline-block;
     color:rgb(239, 225, 242); 
-     margin: 5px;
+     margin:20px;
       background-color: #25042f;
-                padding: 10px;
+                padding: 20px;
                 border-radius: 10px;
+                
 }
 .hoverc:hover {
 background-color:  rgb(210, 100, 211);
@@ -25,7 +32,7 @@ transition: background-color 0.3s ease;
     border:1px solid rgb(61, 2, 61);
     background-color: #340542;
     border-radius: 40px;
-    
+  
 
 }
 .div1:hover{
@@ -59,6 +66,11 @@ main img {
   margin: 0 auto;
 
 }
+.menu{
+  font-size: 15px;
+  margin-right:px;
+}
+
 @media screen and (max-width: 600px) {
   .Tagline {
     font-size: 40px;
@@ -83,6 +95,7 @@ main img {
   .menu {
     text-align: center;
     display: inline-block;
+    padding: 5px;
   }
 
   .hoverc {
